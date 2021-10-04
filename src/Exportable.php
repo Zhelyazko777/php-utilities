@@ -1,6 +1,6 @@
 <?php
 
-namespace Zhelyazlo777\Utilities;
+namespace Zhelyazko777\Utilities;
 
 trait Exportable
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zhelyazlo777\Utilities\Contracts;
+namespace Zhelyazko777\Utilities\Contracts;
 
 interface CanExport
 {

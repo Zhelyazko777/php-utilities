@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Zhelyazlo777\\Utilities\\": "src"
+            "Zhelyazko777\\Utilities\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Zhelyazlo777\\Utilities\\Tests\\": "tests"
+            "Zhelyazko777\\Utilities\\Tests\\": "tests"
         }
     },
     "scripts": {
